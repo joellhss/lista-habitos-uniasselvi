@@ -1,0 +1,23 @@
+.main {
+    width: 450px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    padding: 30px 15px;
+}
+body {
+    text-align: center;
+    background-color: #C7E123
+}
+a {
+    font-family: sans;
+    color: #7C6B6B
+}
+p, td, h1, input, h2, label {
+    font-family: sans;
+}
+
+label {
+    text-align: start;
+}
