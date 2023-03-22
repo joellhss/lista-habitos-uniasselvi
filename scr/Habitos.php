@@ -3,7 +3,7 @@ class Habitos
 {
     private $conexao;
     private $dns = "mysql:host=127.0.0.1;port=3306;dbname=lista_habitos";
-    private $user = "root";
+    private $user = "******";
     private $password = "*******";
 
     public function __construct()
